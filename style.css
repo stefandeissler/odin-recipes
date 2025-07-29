@@ -9,10 +9,13 @@ h1 {
   color: darkslategrey;
 }
 
-button {
-  background-color: aqua;
-  padding: 5px;
-  margin: 0 auto;
+a.button {
+    padding: 1px 6px;
+    border: 1px outset grey;
+    border-radius: 3px;
+    color: black;
+    background-color: blanchedalmond;
+    text-decoration: none;
 }
 
 .section {
