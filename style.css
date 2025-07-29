@@ -16,8 +16,8 @@ a.button {
   color: black;
   background-color: blanchedalmond;
   text-decoration: none;
-  display: inline-block;
-  margin: 0 auto;
+  display: block;
+  text-align: center;
 }
 
 .section {
