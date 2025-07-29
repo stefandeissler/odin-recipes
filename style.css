@@ -18,7 +18,8 @@ a.button {
   text-decoration: none;
 }
 
-.button_container {
+.buttoncontainer {
+  display: block;
   margin: 0 auto;
 }
 
