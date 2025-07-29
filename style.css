@@ -12,6 +12,7 @@ h1 {
 button {
   background-color: aqua;
   padding: 5px;
+  margin: 0 auto;
 }
 
 .section {
