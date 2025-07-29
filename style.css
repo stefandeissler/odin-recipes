@@ -1,3 +1,9 @@
 body {
   font-family: 'Lucida Sans', Verdana, sans-serif;
 }
+
+.section {
+  background-color: rgb(215, 215, 215);
+  padding: 10px;
+  margin: 10 px;
+}
