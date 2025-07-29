@@ -16,10 +16,7 @@ a.button {
   color: black;
   background-color: blanchedalmond;
   text-decoration: none;
-}
-
-.buttoncontainer {
-  display: block;
+  display: inline-block;
   margin: 0 auto;
 }
 
