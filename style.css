@@ -9,6 +9,11 @@ h1 {
   color: darkslategrey;
 }
 
+button {
+  background-color: aqua;
+  padding: 5px;
+}
+
 .section {
   background-color: rgb(215, 215, 215);
   padding: 10px;
