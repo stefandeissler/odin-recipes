@@ -6,7 +6,9 @@ h1 {
   font-family: Garamond, "Times New Roman", serif;
   font-weight: bold;
   font-size: 36px;
-  color: darkslategrey;
+  color: white;
+  background-color: darkslategrey;
+  width: 100%;
 }
 
 a.button {
